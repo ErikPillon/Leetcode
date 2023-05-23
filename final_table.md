@@ -12,6 +12,7 @@ Below you can find the solution in the dropdown menu
 | 35 | | |
 | 66 | | |
 | 125 | valid palindrome | [Python solution](solutions/125.valid-palindrome.py) |
+| 128 | longest consecutive sequence | [Python solution](solutions/128.longest-consecutive-sequence.py) |
 | 136 | | |
 | 167 | two sum ii input array is sorted | [Python solution](solutions/167.two-sum-ii-input-array-is-sorted.py) |
 | 189 | | |
@@ -37,4 +38,5 @@ Below you can find the solution in the dropdown menu
 | 1640 | | |
 | 1641 | | |
 | 1646 | | |
+| 2177 | find three consecutive integers that sum to a given number | [Python solution](solutions/2177.find-three-consecutive-integers-that-sum-to-a-given-number.py) |
 </details>

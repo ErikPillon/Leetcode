@@ -24,9 +24,9 @@ do
 	else
 		echo "| $pn | | |" >> final_table.md
 	fi
-done < out
+done < .out
 echo "</details>" >> final_table.md
 
-cat header > README.md
+cat .header > README.md
 cat final_table.md >> README.md
-
+cat .footer >> README.md
