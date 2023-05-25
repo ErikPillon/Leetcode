@@ -10,6 +10,7 @@ Below you can find the solution in the dropdown menu
 | 1 | two sum | [Python solution](solutions/1.two-sum.py) |
 | 9 | | |
 | 19 | | |
+| 20 | valid parentheses | [Python solution](solutions/20.valid-parentheses.py) |
 | 26 | | |
 | 35 | | |
 | 66 | | |
@@ -42,6 +43,7 @@ Below you can find the solution in the dropdown menu
 | 1646 | | |
 | 2177 | find three consecutive integers that sum to a given number | [Python solution](solutions/2177.find-three-consecutive-integers-that-sum-to-a-given-number.py) |
 </details>
+
 If you found some bugs and want to contribute to the repository, share with me your opinion or whatever other reason, just drop me an [email](mailto:erik.pillon@gmail.com) or star the repo!
 
 All the material present here is for education purposes only. Please don't copy and paste the solutions but practice and test them out by your own. 

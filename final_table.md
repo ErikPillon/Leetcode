@@ -8,6 +8,7 @@ Below you can find the solution in the dropdown menu
 | 1 | two sum | [Python solution](solutions/1.two-sum.py) |
 | 9 | | |
 | 19 | | |
+| 20 | valid parentheses | [Python solution](solutions/20.valid-parentheses.py) |
 | 26 | | |
 | 35 | | |
 | 66 | | |
