@@ -9,6 +9,7 @@ Below you can find the solution in the dropdown menu
 |----|--------------|----------------------|
 | 1 | two sum | [Python solution](solutions/1.two-sum.py) |
 | 9 | | |
+| 15 | 3sum | [Python solution](solutions/15.3sum.py) |
 | 19 | | |
 | 20 | valid parentheses | [Python solution](solutions/20.valid-parentheses.py) |
 | 26 | | |

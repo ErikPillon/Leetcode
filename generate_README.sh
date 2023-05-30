@@ -1,5 +1,7 @@
 #!/bin/bash
 
+leetcode list | grep ✔ > .out
+
 # Generate the final Markdown table
 
 echo "Below you can find the solution in the dropdown menu" > final_table.md
