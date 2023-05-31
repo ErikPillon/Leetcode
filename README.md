@@ -9,6 +9,7 @@ Below you can find the solution in the dropdown menu
 |----|--------------|----------------------|
 | 1 | two sum | [Python solution](solutions/1.two-sum.py) |
 | 9 | | |
+| 11 | container with most water | [Python solution](solutions/11.container-with-most-water.py) |
 | 15 | 3sum | [Python solution](solutions/15.3sum.py) |
 | 19 | | |
 | 20 | valid parentheses | [Python solution](solutions/20.valid-parentheses.py) |
@@ -18,6 +19,7 @@ Below you can find the solution in the dropdown menu
 | 125 | valid palindrome | [Python solution](solutions/125.valid-palindrome.py) |
 | 128 | longest consecutive sequence | [Python solution](solutions/128.longest-consecutive-sequence.py) |
 | 136 | | |
+| 155 | min stack | [Python solution](solutions/155.min-stack.py) |
 | 167 | two sum ii input array is sorted | [Python solution](solutions/167.two-sum-ii-input-array-is-sorted.py) |
 | 189 | | |
 | 206 | | |
@@ -34,7 +36,7 @@ Below you can find the solution in the dropdown menu
 | 412 | | |
 | 557 | | |
 | 733 | | |
-| 704 | | |
+| 704 | binary search | [Python solution](solutions/704.binary-search.py) |
 | 876 | | |
 | 977 | | |
 | 1342 | | |
