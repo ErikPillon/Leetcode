@@ -20,7 +20,7 @@ Below you can find the solution in the dropdown menu
 | 155 | min stack | [Python solution](solutions/155.min-stack.py) |
 | 167 | two sum ii input array is sorted | [Python solution](solutions/167.two-sum-ii-input-array-is-sorted.py) |
 | 189 | | |
-| 206 | | |
+| 206 | reverse linked list | [Python solution](solutions/206.reverse-linked-list.py) |
 | 217 | contains duplicate | [Python solution](solutions/217.contains-duplicate.py) |
 | 238 | product of array except self | [Python solution](solutions/238.product-of-array-except-self.py) |
 | 242 | valid anagram | [Python solution](solutions/242.valid-anagram.py) |
