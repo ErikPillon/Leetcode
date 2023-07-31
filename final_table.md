@@ -14,7 +14,7 @@ Below you can find the solution in the dropdown menu
 | 21 | merge two sorted lists | [Python solution](solutions/21.merge-two-sorted-lists.py) |
 | 26 | | |
 | 35 | | |
-| 66 | | |
+| 66 | plus one | [Python solution](solutions/66.plus-one.py) |
 | 125 | valid palindrome | [Python solution](solutions/125.valid-palindrome.py) |
 | 128 | longest consecutive sequence | [Python solution](solutions/128.longest-consecutive-sequence.py) |
 | 136 | | |
