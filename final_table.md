@@ -11,6 +11,7 @@ Below you can find the solution in the dropdown menu
 | 15 | 3sum | [Python solution](solutions/15.3sum.py) |
 | 19 | | |
 | 20 | valid parentheses | [Python solution](solutions/20.valid-parentheses.py) |
+| 21 | merge two sorted lists | [Python solution](solutions/21.merge-two-sorted-lists.py) |
 | 26 | | |
 | 35 | | |
 | 66 | | |
