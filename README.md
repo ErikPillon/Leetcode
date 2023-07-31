@@ -49,7 +49,6 @@ Below you can find the solution in the dropdown menu
 | 2177 | find three consecutive integers that sum to a given number | [Python solution](solutions/2177.find-three-consecutive-integers-that-sum-to-a-given-number.py) |
 </details>
 
-If you found some bugs and want to contribute to the repository, share with me your opinion or whatever other reason, just drop me an [email](mailto:erik.pillon@gmail.com) or star the repo!
+If you find any bug and would like to contribute to the repository, feel free to open a pull request or to contact me directly at the following [email](mailto:erik.pillon@gmail.com).
 
-All the material present here is for education purposes only. Please don't copy and paste the solutions but practice and test them out by your own. 
-
+This repository is for education purposes only! Please don't copy and paste the solutions but practice and test them out by your own. If you found it useful, please consider starring the project!
